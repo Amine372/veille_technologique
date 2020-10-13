@@ -94,7 +94,7 @@
                                 <h1 data-animation="fadeInUp" data-delay=".6s">Photography Make us happy Take a shot.</h1>
                                 <!-- Hero-btn -->
                                 <div class="hero__btn">
-                                    <a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Watch Portfolio</a>
+                                    <a href="assets/televerssements/Portefeuille de compétences SLAM.pdf" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s"> Regarder mon Portfolio</a>
                                 </div>
                             </div>
                         </div>
