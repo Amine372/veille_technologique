@@ -61,7 +61,6 @@
                                             <li><a href="blog.html">Blog</a>
                                                 <ul class="submenu">
                                                     <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="blog_details.html">Blog Details</a></li>
                                                     <li><a href="elements.html">Element</a></li>
                                                 </ul>
                                             </li>
@@ -430,7 +429,7 @@
                         </div>
                         <div class="blog-cap">
                             <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="blog_details.html">Addiction When Gambling Becomes</a></h4>
+                            <h4><a href="blog.html">Addiction When Gambling Becomes</a></h4>
                         </div>
                     </div>
                 </div>
@@ -441,7 +440,7 @@
                         </div>
                         <div class="blog-cap">
                             <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="blog_details.html">Addiction When Gambling Becomes</a></h4>
+                            <h4><a href="blog_">Addiction When Gambling Becomes</a></h4>
                         </div>
                     </div>
                 </div>
@@ -452,7 +451,7 @@
                         </div>
                         <div class="blog-cap">
                             <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="blog_details.html">Addiction When Gambling Becomes</a></h4>
+                            <h4><a href="blog_">Addiction When Gambling Becomes</a></h4>
                         </div>
                     </div>
                 </div>
