@@ -478,7 +478,7 @@
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
-                                    <p class="info1">Grabbing the concsumer’s attention isn’t enough you have to keep that attention for at least a.</p>
+                                    <p class="info1">En première année de BTS SIO SLAM à l'UFA Robert Schuman.</p>
                                 </div>
                             </div>
                         </div>
@@ -488,42 +488,10 @@
                             <div class="footer-tittle">
                                 <h4>Navigation</h4>
                                 <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">Events</a></li>
-                                    <li><a href="#">Testimonial</a></li>
+                                    <li><a href="#">Accueil</a></li>
+                                    <li><a href="#">Blog</a></li>
+                                    <li><a href="#">A propos</a></li>
                                     <li><a href="#">Categories</a></li>
-                                    <li><a href="#">Contacts</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-2 col-md-5 col-sm-6">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Useful Links</h4>
-                                <ul>
-                                    <li><a href="#">Registration</a></li>
-                                    <li><a href="#">Login</a></li>
-                                    <li><a href="#">Policy</a></li>
-                                    <li><a href="#">Terms & Conditions</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Instagram -->
-                    <div class="col-xl-4 col-lg-4 col-md-5 col-sm-7">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Instagram Feed</h4>
-                            </div>
-                            <div class="instagram-gellay">
-                                <ul class="insta-feed">
-                                    <li><a href="#"><img src="assets/img/gallery/instagram1.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram2.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram3.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram4.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram5.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram6.png" alt=""></a></li>
                                 </ul>
                             </div>
                         </div>
