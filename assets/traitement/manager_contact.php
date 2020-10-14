@@ -1,5 +1,5 @@
 <?php
-require_once('Model_Evenements.php');
+require_once('model_contact.php');
 class manager_contact
 {
 

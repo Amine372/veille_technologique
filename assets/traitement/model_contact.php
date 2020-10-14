@@ -1,78 +1,78 @@
 <?php
 class Model_Evenements
 {
-  private $_id;
-  private $_id_utilisateur;
-  private $_description;
-  private $_date;
-  private $_Comm;
+  protected $_message;
+  protected $_nom;
+  protected $_prenom;
+  protected $_mail;
+  protected $_envoyer;
   // Liste des getters
 
-  public function id()
+  public function message()
   {
-    return $this->_id;
+    return $this->_message;
   }
 
-  public function id_utilisateur()
+  public function nom()
   {
-    return $this->_id_utilisateur;
+    return $this->_nom;
   }
-  public function description()
+  public function prenom()
   {
-    return $this->_description;
+    return $this->_prenom;
   }
-  public function date()
+  public function mail()
   {
-    return $this->_date;
+    return $this->_mail;
   }
-  public function Comm()
+  public function envoyer()
   {
-    return $this->_Comm;
+    return $this->_envoyer;
   }
   //Partie Setter
-  public function setid($id)
+  public function setmessage($message)
   {
-    $id = (int) $id;
+    $message = (int) $message;
 
-    if ($id >= 1 && $id <= 100)
+    if ($message >= 1 && $message <= 100)
     {
-      $this->_id = $id;
+      $this->_message = $message;
     }
   }
-  public function setid_utilisateur($id_utilisateur)
+  public function setnom($nom)
   {
-    $id_utilisateur = (int) $id_utilisateur;
+    $nom = (int) $nom;
 
-    if ($id_utilisateur >= 1 && $id_utilisateur <= 100)
+    if ($nom >= 1 && $nom <= 100)
     {
-      $this->_id_utilisateur = $id_utilisateur;
+      $this->_nom = $nom;
     }
   }
-  public function setdescription($description)
+  public function setprenom($prenom)
   {
-    $description = (int) $description;
+    $prenom = (int) $prenom;
 
-    if ($description >= 1 && $description <= 100)
+    if ($prenom >= 1 && $prenom <= 100)
     {
-      $this->_description = $description;
+      $this->_prenom = $prenom;
     }
   }
-  public function setdate($date)
+  public function setmail($mail)
   {
-    $date = (int) $date;
+    $mail = (int) $mail;
 
-    if ($date >= 1 && $date <= 100)
+    if ($mail>= 1 && $mail <= 100)
     {
-      $this->_date = $date;
+      $this->_mail = $mail;
     }
   }
-  public function setComm($Comm)
+  public function setenvoyer($envoyer)
   {
-    $Comm = (int) $Comm;
+    $envoyer = (int) $envoyer;
 
-    if ($Comm >= 1 && $Comm <= 100)
+    if ($envoyer >= 1 && $envoyer<= 100)
     {
-      $this->_Comm = $Comm;
+      $this->_envoyer = $envoyer;
     }
   }
 }
