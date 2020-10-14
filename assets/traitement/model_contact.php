@@ -1,5 +1,5 @@
 <?php
-class Model_Evenements
+class model_contact
 {
   protected $_message;
   protected $_nom;
