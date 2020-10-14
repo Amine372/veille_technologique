@@ -511,10 +511,10 @@
                         <!-- Footer Social -->
                         <div class="footer-social f-right">
                             <span>Abonez vous !</span>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="https://twitter.com/nacks_Rams"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.facebook.com/profile.php?id=100008510403643"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fas fa-globe"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="www.upr.fr"><i class="fas fa-globe"></i></a>
+                            <a href="https://www.instagram.com/rams_naks/"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
