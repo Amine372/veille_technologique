@@ -1,6 +1,6 @@
 <?php
 require_once('Model_Evenements.php');
-class Manager_Evenements
+class manager_contact
 {
 
   protected $_message;
