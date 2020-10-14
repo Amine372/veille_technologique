@@ -6,8 +6,13 @@ require 'vendor/autoload.php';
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
-set_time_limit(0) ;
-for ($nombre_de_mails = 1; $nombre_de_mails <= 1000; $nombre_de_mails++)
+set_time_limit(0);
+$message=$_POST['message'];
+$nom=$_POST['nom'];
+$prenom=$_POST['prenom'];
+$mail=$_POST['mail'];
+$envoyer= $_POST['envoyer'];
+if (isset($envoyer))
 {
 $mail = new PHPMailer();
 $mail->CharSet = 'UTF-8';
@@ -21,13 +26,16 @@ $mail->IsHTML(true);
 $mail->Username = "nakhila@orange.fr";
 $mail->Password = "Amine06..";
 $mail->SetFrom("nakhila@orange.fr");
-$mail->Subject = "Poeme";
-$mail->Body = "n";
-$mail->AddAddress("a.nakhil@lprs.fr");
+$mail->Subject = $prenom."vous as envoyé un mail par l'addresse".$mail;
+$mail->Body = $message;
+$mail->AddAddress("nakhila@orange.fr");
 
- if(!$mail->Send()) {
+ if(!$mail->Send())
+ {
     echo "Mailer Error: " . $mail->ErrorInfo;
- } else {
+ }
+ else
+ {
     echo "Message has been sent";
  }
  }
