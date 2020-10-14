@@ -483,6 +483,9 @@
                             </div>
                         </div>
                     </div>
+                    <div class="footer-tittle">
+                        <h4>Sur twiter</h4>
+                    </div>
                     <div class="col-xl-2 col-lg-2 col-md-5 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
