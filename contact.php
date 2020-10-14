@@ -21,6 +21,11 @@
         <link rel="stylesheet" href="assets/css/slick.css">
         <link rel="stylesheet" href="assets/css/nice-select.css">
         <link rel="stylesheet" href="assets/css/style.css">
+        <?php
+   require '../class/Manager/Manager_Evenements.php';
+  // require '../class/Modele/Model_Evenements.php';
+    ?>
+
 </head>
 
 <body>
@@ -64,7 +69,7 @@
                                                         <li><a href="elements.html">Element</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
                                             </ul>
                                         </nav>
                                     </div>
