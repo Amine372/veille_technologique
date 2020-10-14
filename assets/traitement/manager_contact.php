@@ -9,20 +9,18 @@ class manager_contact
   protected $_mail;
   protected $_envoyer;
 
-  public function Evenements()
+  public function contact()
   {
 
-    $bdd = new PDO('mysql:host=localhost;dbname=projet_lycee','root','');
-    $bdd->exec("SET CHARACTER SET utf8");
-    // SELECT * FROM Users where 0
-    // execute()
-    $req = $bdd->prepare('SELECT titre, description, date, Comm, utilisateur.nom, utilisateur.prenom from evenements INNER JOIN utilisateur ON evenements.id_utilisateur = utilisateur.id ORDER BY `evenements`.`id` DESC');
-    $req->execute();
-    $donnee = $req->fetchall();
-    if ($donnee)
-    {
-      return $donnee;
-    }
+      ini_set( 'display_errors', 1 );
+      error_reporting( E_ALL );
+      $from = "nakhila@orange.fr";
+      $to = "nakhila@orange.fr";
+      $subject = $a . "vous as envoyé un mail par l'addresse".$mail;
+      $message = $message;
+      $headers = "De :" . $mail;
+      mail($to,$subject,$message, $headers);
+      echo "L'email a été envoyé.";
 
 }
 }
