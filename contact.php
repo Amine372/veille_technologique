@@ -22,7 +22,7 @@
         <link rel="stylesheet" href="assets/css/nice-select.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <?php
-   require 'assets/traitement/manager_contact.php';
+   require '/assets/traitement/manager_contact.php';
   // require '../class/Modele/Model_Evenements.php';
     ?>
 
