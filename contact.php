@@ -21,10 +21,6 @@
         <link rel="stylesheet" href="assets/css/slick.css">
         <link rel="stylesheet" href="assets/css/nice-select.css">
         <link rel="stylesheet" href="assets/css/style.css">
-        <?php
-   require '/assets/traitement/manager_contact.php';
-  // require '../class/Modele/Model_Evenements.php';
-    ?>
 
 </head>
 
@@ -150,7 +146,7 @@
                         <h2 class="contact-title">Formulaire</h2>
                     </div>
                     <div class="col-lg-8">
-                        <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                        <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate" action="assets/traitement/kit_contact/mail.php">
                             <div class="row">
                                 <div class="col-12">
                                     <div class="form-group">
