@@ -484,7 +484,8 @@
                         </div>
                     </div>
                     <div class="footer-tittle">
-                        <h4>Sur twiter</h4>
+                        <h4>Le Cerfal sur twiter</h4>
+                        <a class="twitter-timeline" height="300" href="https://twitter.com/ccerfal">Tweets par Amine NAKHIL</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </div>
                     <div class="col-xl-2 col-lg-2 col-md-5 col-sm-6">
                         <div class="single-footer-caption mb-50">
