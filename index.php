@@ -58,7 +58,7 @@
                                             <li><a href="about.html">A propos</a></li>
                                             <li><a href="gallery.html">Galerie</a></li>
                                             <li><a href="services.html">Services</a></li>
-                                            <li><a href="blog.html">Blog</a>
+                                            <li><a href="blog.html">Projets</a>
                                                 <ul class="submenu">
                                                     <li><a href="blog.html">Blog</a></li>
                                                     <li><a href="elements.html">Element</a></li>
@@ -503,7 +503,7 @@
                                 <h4>Navigation</h4>
                                 <ul>
                                   <li><a href="index.php">Accueil</a></li>
-                                  <li><a href="blog.html">Blog</a></li>
+                                  <li><a href="blog.html">Projets</a></li>
                                   <li><a href="about.html">A propos</a></li>
                                 </ul>
                             </div>
