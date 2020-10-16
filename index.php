@@ -362,7 +362,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/gallery/brand1.png" alt="">
+                        <img src="assets/img/logo/python.jpg" alt="">
                         <p>HTML, CSS</p>
                         <p>Exellent niveau</p>
                     </div>
