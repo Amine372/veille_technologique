@@ -420,8 +420,8 @@
                             <img src="assets/img/gallery/blog1.png" alt="">
                         </div>
                         <div class="blog-cap">
-                            <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="#">Addiction When Gambling Becomes</a></h4>
+                            <span class="color1">mai-juin, 2019</span>
+                            <h4><a href="#">Stage administrateur réseaux au sein de la communauté d’agglomération du Val d'europe</a></h4>
                         </div>
                     </div>
                 </div>
@@ -431,19 +431,19 @@
                             <img src="assets/img/gallery/blog2.png" alt="">
                         </div>
                         <div class="blog-cap">
-                            <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="#">Addiction When Gambling Becomes</a></h4>
+                            <span class="color1">décembre, 2014</span>
+                            <h4><a href="#">Stage à la piscine Edouard Herriot, Noisy-le-Sec</a></h4>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blogs mb-100">
                         <div class="blog-img">
-                            <img src="assets/img/gallery/blog3.png" alt="">
+                            <img src="assets/img/logo/logo_cerfal_master_0.png" alt="">
                         </div>
                         <div class="blog-cap">
-                            <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="#">Addiction When Gambling Becomes</a></h4>
+                            <span class="color1">octobre-décembre, 2020</span>
+                            <h4><a href="#">Stage au Cerfal Ile de France</a></h4>
                         </div>
                     </div>
                 </div>
