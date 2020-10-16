@@ -417,7 +417,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blogs mb-100">
                         <div class="blog-img">
-                            <img src="assets/img/gallery/blog1.png" alt="">
+                            <img src="assets/img/logo/0.png" alt="">
                         </div>
                         <div class="blog-cap">
                             <span class="color1">mai-juin, 2019</span>
