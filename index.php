@@ -309,22 +309,22 @@
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand1.png" alt="">
-                        <p>Behance award</p>
-                        <p>Prize 2019</p>
+                        <p>Baccalauréat</p>
+                        <p>session 2018</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand02.png" alt="">
-                        <p>Behance award</p>
-                        <p>Prize 2019</p>
+                        <p>Permis de conduire</p>
+                        <p>2018</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand2.png" alt="">
-                        <p>Behance award</p>
-                        <p>Prize 2019</p>
+                        <p>Cerification Cambridge</p>
+                        <p>Session 2016, niveau B1</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
