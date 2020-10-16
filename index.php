@@ -364,49 +364,49 @@
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand1.png" alt="">
                         <p>HTML, CSS</p>
-                        <p>Session 2018, option ISN et section européenne</p>
+                        <p>Exellent niveau</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand02.png" alt="">
                         <p>PHP</p>
-                        <p>2018</p>
+                        <p>Exellent niveau</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand2.png" alt="">
                         <p>Python</p>
-                        <p>Session 2016, Niveau B1</p>
+                        <p>Exellent niveau</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand3.png" alt="">
                         <p>C</p>
-                        <p>Session 2015, Mention Bien</p>
+                        <p>Exellent niveau</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand4.png" alt="">
                         <p>SQL</p>
-                        <p>Session 2016, Niveau B1</p>
+                        <p>Bon niveau</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand4.png" alt="">
                         <p>Batch, VBS</p>
-                        <p>Session 2016, Niveau B1</p>
+                        <p>Bon niveau/p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand4.png" alt="">
                         <p>Swift</p>
-                        <p>Session 2016, Niveau B1</p>
+                        <p>Bon niveau</p>
                     </div>
                 </div>
             </div>
