@@ -405,7 +405,7 @@
                 <div class="col-lg-6">
                     <!-- Section Tittle -->
                     <div class="section-tittle text-center mb-30">
-                        <h2>Mes expériences preffessionelles</h2>
+                        <h2>Mes expériences proffessionelles</h2>
                         <p>Où j'ai pu exercer mes connaissances</p>
                     </div>
                 </div>
