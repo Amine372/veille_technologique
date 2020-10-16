@@ -492,10 +492,9 @@
                             <div class="footer-tittle">
                                 <h4>Navigation</h4>
                                 <ul>
-                                    <li><a href="#">Accueil</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">A propos</a></li>
-                                    <li><a href="#">Categories</a></li>
+                                  <li><a href="index.php">Accueil</a></li>
+                                  <li><a href="blog.html">Blog</a></li>
+                                  <li><a href="about.html">A propos</a></li>
                                 </ul>
                             </div>
                         </div>
