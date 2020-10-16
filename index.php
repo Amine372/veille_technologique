@@ -310,7 +310,7 @@
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand1.png" alt="">
                         <p>Baccalauréat Scientifique</p>
-                        <p>Session 2018, option ISN</p>
+                        <p>Session 2018, option ISN et section européenne</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
@@ -324,28 +324,21 @@
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand2.png" alt="">
                         <p>Cerification Cambridge</p>
-                        <p>Session 2016, niveau B1</p>
+                        <p>Session 2016, Niveau B1</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand3.png" alt="">
-                        <p>Behance a</p>
-                        <p>Prize 2019</p>
+                        <p>Brevet des Collèges</p>
+                        <p>Session 2015, Mention Bien</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand4.png" alt="">
-                        <p>Behance award</p>
-                        <p>Prize 2019</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <div class="single-brand text-center mb-30">
-                        <img src="assets/img/gallery/brand1.png" alt="">
-                        <p>Behance award</p>
-                        <p>Prize 2019</p>
+                        <p>Goethe-Zertifikat</p>
+                        <p>Session 2016, Niveau B1</p>
                     </div>
                 </div>
             </div>
