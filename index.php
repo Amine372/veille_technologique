@@ -90,8 +90,8 @@
                     <div class="row">
                         <div class="col-xl-7 col-lg-7 col-md-8">
                             <div class="hero__caption">
-                                <span data-animation="fadeInUp" data-delay=".4s">Creative Photographey</span>
-                                <h1 data-animation="fadeInUp" data-delay=".6s">Photography Make us happy Take a shot.</h1>
+                                <span data-animation="fadeInUp" data-delay=".4s">Amine NAKHIL</span>
+                                <h1 data-animation="fadeInUp" data-delay=".6s">Développeur informatique</h1>
                                 <!-- Hero-btn -->
                                 <div class="hero__btn">
                                     <a href="assets/televerssements/Portefeuille de compétences SLAM.pdf" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s"> Regarder mon Portfolio</a>
@@ -302,7 +302,7 @@
                 <div class="col-lg-6">
                     <!-- Section Tittle -->
                     <div class="section-tittle mb-30">
-                        <h2>Take a look <br>at our achivment</h2>
+                        <h2>Mon niveau de <br> formation</h2>
                         <p>Excepteur sint occaecat cupidatat. irure dolor in.</p>
                         <a href="#" class="btn">Get Start</a>
                     </div>
