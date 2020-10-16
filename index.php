@@ -350,56 +350,53 @@
     </section>
     <!-- Brand Area End -->
     <!--? Testimonial Start -->
-    <div class="testimonial-area testimonial-padding">
-        <div class="container ">
-            <div class="row d-flex justify-content-center">
-                <div class="col-xl-11 col-lg-11 col-md-9">
-                    <div class="h1-testimonial-active">
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-caption ">
-                                <div class="testimonial-top-cap">
-                                    <img src="assets/img/gallery/testimonial.png" alt="">
-                                    <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>
-                                </div>
-                                <!-- founder -->
-                                <div class="testimonial-founder d-flex align-items-center justify-content-center">
-                                    <div class="founder-img">
-                                        <img src="assets/img/gallery/Homepage_testi.png" alt="">
-                                    </div>
-                                    <div class="founder-text">
-                                        <span>Jessya Inn</span>
-                                        <p>Chif Photographer</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-caption ">
-                                <div class="testimonial-top-cap">
-                                    <img src="assets/img/gallery/testimonial.png" alt="">
-                                    <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>
-                                </div>
-                                <!-- founder -->
-                                <div class="testimonial-founder d-flex align-items-center justify-content-center">
-                                    <div class="founder-img">
-                                        <img src="assets/img/gallery/Homepage_testi.png" alt="">
-                                    </div>
-                                    <div class="founder-text">
-                                        <span>Jessya Inn</span>
-                                        <p>Chif Photographer</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+    <section class="brand-area pb-bottom section-padding30">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <!-- Section Tittle -->
+                    <div class="section-tittle mb-30">
+                        <h2>Mon niveau de <br> formation</h2>
+                        <p>Voici les diplomes, certifications, brevets, examens et titres que j'ais validé.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand1.png" alt="">
+                        <p>Baccalauréat Scientifique</p>
+                        <p>Session 2018, option ISN et section européenne</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand02.png" alt="">
+                        <p>Permis de conduire</p>
+                        <p>2018</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand2.png" alt="">
+                        <p>Cerification Cambridge</p>
+                        <p>Session 2016, Niveau B1</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand3.png" alt="">
+                        <p>Brevet des Collèges</p>
+                        <p>Session 2015, Mention Bien</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand4.png" alt="">
+                        <p>Goethe-Zertifikat</p>
+                        <p>Session 2016, Niveau B1</p>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     <!-- Testimonial End -->
     <!--? Blog Area Start -->
     <section class="blogs-area section-padding30">
