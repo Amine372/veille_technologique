@@ -398,7 +398,14 @@
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand4.png" alt="">
-                        <p>SQL</p>
+                        <p>Batch, VBS</p>
+                        <p>Session 2016, Niveau B1</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand4.png" alt="">
+                        <p>Swift</p>
                         <p>Session 2016, Niveau B1</p>
                     </div>
                 </div>
