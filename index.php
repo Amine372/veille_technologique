@@ -303,7 +303,7 @@
                     <!-- Section Tittle -->
                     <div class="section-tittle mb-30">
                         <h2>Mon niveau de <br> formation</h2>
-                        <p>Voici les diplomes, certifications, brevets, examens et titres que j'ai validé.</p>
+                        <p>Voici les diplomes, certifications, brevets, examens et titres que j'ais validé.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
@@ -408,8 +408,8 @@
                 <div class="col-lg-6">
                     <!-- Section Tittle -->
                     <div class="section-tittle text-center mb-30">
-                        <h2>Tourist Blog</h2>
-                        <p>Our Recent Photos</p>
+                        <h2>Mes expériences preffessionelles</h2>
+                        <p>Où j'ai pu exercer mes connaissances</p>
                     </div>
                 </div>
             </div>
@@ -421,7 +421,7 @@
                         </div>
                         <div class="blog-cap">
                             <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="blog.html">Addiction When Gambling Becomes</a></h4>
+                            <h4><a href="#">Addiction When Gambling Becomes</a></h4>
                         </div>
                     </div>
                 </div>
@@ -432,7 +432,7 @@
                         </div>
                         <div class="blog-cap">
                             <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="blog_">Addiction When Gambling Becomes</a></h4>
+                            <h4><a href="#">Addiction When Gambling Becomes</a></h4>
                         </div>
                     </div>
                 </div>
@@ -443,7 +443,7 @@
                         </div>
                         <div class="blog-cap">
                             <span class="color1">23 Dec, 2020</span>
-                            <h4><a href="blog_">Addiction When Gambling Becomes</a></h4>
+                            <h4><a href="#">Addiction When Gambling Becomes</a></h4>
                         </div>
                     </div>
                 </div>
