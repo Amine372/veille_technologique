@@ -303,8 +303,7 @@
                     <!-- Section Tittle -->
                     <div class="section-tittle mb-30">
                         <h2>Mon niveau de <br> formation</h2>
-                        <p>Excepteur sint occaecat cupidatat. irure dolor in.</p>
-                        <a href="#" class="btn">Get Start</a>
+                        <p>Voici les diplomes, certifications, brevets, examens et titres que j'ai validé.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
