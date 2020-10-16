@@ -303,7 +303,7 @@
                     <!-- Section Tittle -->
                     <div class="section-tittle mb-30">
                         <h2>Mon niveau de <br> formation</h2>
-                        <p>Voici les diplomes, certifications, brevets, examens et titres que j'ais validé.</p>
+                        <p>Voici les diplomes, certifications, brevets, examens et titres que j'ai validé.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
@@ -356,42 +356,49 @@
                 <div class="col-lg-6">
                     <!-- Section Tittle -->
                     <div class="section-tittle mb-30">
-                        <h2>Mon niveau de <br> formation</h2>
-                        <p>Voici les diplomes, certifications, brevets, examens et titres que j'ais validé.</p>
+                        <h2>Compétances en <br> programmation</h2>
+                        <p>Voici ma maitrises des différents lanhgeges de programmation</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand1.png" alt="">
-                        <p>Baccalauréat Scientifique</p>
+                        <p>HTML, CSS</p>
                         <p>Session 2018, option ISN et section européenne</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand02.png" alt="">
-                        <p>Permis de conduire</p>
+                        <p>PHP</p>
                         <p>2018</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand2.png" alt="">
-                        <p>Cerification Cambridge</p>
+                        <p>Python</p>
                         <p>Session 2016, Niveau B1</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand3.png" alt="">
-                        <p>Brevet des Collèges</p>
+                        <p>C</p>
                         <p>Session 2015, Mention Bien</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand4.png" alt="">
-                        <p>Goethe-Zertifikat</p>
+                        <p>SQL</p>
+                        <p>Session 2016, Niveau B1</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand4.png" alt="">
+                        <p>SQL</p>
                         <p>Session 2016, Niveau B1</p>
                     </div>
                 </div>
