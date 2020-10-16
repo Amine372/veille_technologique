@@ -309,8 +309,8 @@
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand1.png" alt="">
-                        <p>Baccalauréat</p>
-                        <p>session 2018</p>
+                        <p>Baccalauréat Scientifique</p>
+                        <p>Session 2018, option ISN</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
@@ -330,7 +330,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/gallery/brand3.png" alt="">
-                        <p>Behance award</p>
+                        <p>Behance a</p>
                         <p>Prize 2019</p>
                     </div>
                 </div>
