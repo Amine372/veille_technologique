@@ -390,7 +390,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/gallery/brand4.png" alt="">
+                        <img src="assets/img/logo/sql.png" alt="">
                         <p>SQL</p>
                         <p>Bon niveau</p>
                     </div>
