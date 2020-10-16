@@ -369,14 +369,14 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/gallery/brand02.png" alt="">
+                        <img src="assets/img/logo/php-logo.png" alt="">
                         <p>PHP</p>
                         <p>Exellent niveau</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/gallery/brand2.png" alt="">
+                        <img src="assets/img/logo/python.jpg" alt="">
                         <p>Python</p>
                         <p>Exellent niveau</p>
                     </div>
