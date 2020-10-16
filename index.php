@@ -409,6 +409,13 @@
                         <p>Bon niveau</p>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/gallery/brand4.png" alt="">
+                        <p>Algorithmique</p>
+                        <p>Exellent niveau</p>
+                    </div>
+                </div>
             </div>
         </div>
     <!-- Testimonial End -->
