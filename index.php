@@ -383,7 +383,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/gallery/brand3.png" alt="">
+                        <img src="assets/img/logo/C-language.png" alt="">
                         <p>C</p>
                         <p>Exellent niveau</p>
                     </div>
