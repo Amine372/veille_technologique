@@ -215,8 +215,8 @@
                                 <a href="assets/img/gallery/gallery1.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4><a href="www.facebook.fr">Voir mon CV</a></h4>
-                                <p><a href="www.facebook.fr">Observez mon expertise perssonelle !</a></p>
+                                <h4><a href="assets/">Voir mon CV</a></h4>
+                                <p><a href="assets/">Observez mon expertise perssonelle !</a></p>
                             </div>
                         </div>
                     </div>
