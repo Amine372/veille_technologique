@@ -11,20 +11,36 @@
     .current
     {
       margin-right:50px;
-      font-weight:300
+      font-weight:300;
       }
-      .form-select
-       .nice-select::after
-       {
-         right:20px
-         }
-         .mt-10
-         {
-           margin-top:10px
-           }
-           .section-top-border
-           {
-             padding:50px 0;
-             border-top:1px dotted #eee
-           }
-             .mb-30{margin-bottom:30px}.mt-30{margin-top:30px}.switch-wrap{margin-bottom:10px}
+    .form-select
+    .nice-select::after
+    {
+      right:20px
+    }
+    .mt-10
+    {
+      margin-top:10px
+    }
+    .section-top-border
+    {
+      padding:50px 0;
+      border-top:1px dotted #eee
+    }
+    .mb-30
+    {
+      margin-bottom:30px
+    }
+    .mt-30
+    {
+      margin-top:30px
+    }
+    .switch-wrap
+    {
+      margin-bottom:10px
+    }
+    .justifier
+    {
+      text-align: justify;
+      text-justify: inter-word;
+    }
