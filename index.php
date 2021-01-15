@@ -418,7 +418,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/logo/algo.jpg" alt="">
+                        <img src="assets/img/logo/java-N5uhyL.jpg" alt="">
                         <p>Java</p>
                         <p>Bon niveau</p>
                     </div>
