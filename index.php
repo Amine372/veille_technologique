@@ -210,7 +210,6 @@
                 <div class="col-xl-5 col-lg-4 col-md-6 col-sm-6">
                     <div class="gallery-box">
                         <div class="single-gallery">
-                          <a href="www.facebook.fr">
                             <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
                             <div class="cap-icon">
                                 <a href="assets/img/gallery/gallery1.png" class="ti-fullscreen img-pop-up"></a>
@@ -220,7 +219,6 @@
                                 <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
                             </div>
                         </div>
-                        </a>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
