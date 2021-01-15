@@ -215,8 +215,8 @@
                                 <a href="assets/img/gallery/gallery1.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4><a href="www.facebook.fr">The Last man</a></h4>
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+                                <h4><a href="www.facebook.fr">Voir mon CV</a></h4>
+                                <p>Observez mon expertise perssonelle !</p>
                             </div>
                         </div>
                     </div>
