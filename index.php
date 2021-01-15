@@ -216,7 +216,7 @@
                             </div>
                             <div class="g-caption">
                                 <h4><a href="www.facebook.fr">Voir mon CV</a></h4>
-                                <p>Observez mon expertise perssonelle !</p>
+                                <p><a href="www.facebook.fr">Observez mon expertise perssonelle !</a></p>
                             </div>
                         </div>
                     </div>
