@@ -215,8 +215,8 @@
                                 <a href="assets/img/gallery/gallery1.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4><a href="assets/televerssements/">Voir mon CV</a></h4>
-                                <p><a href="assets/televerssements/">Observez mon expertise perssonelle !</a></p>
+                                <h4><a href="assets/televerssements/Amine_CV.pdf">Voir mon CV</a></h4>
+                                <p><a href="assets/televerssements/Amine_CV.pdf">Observez mon expertise perssonelle !</a></p>
                             </div>
                         </div>
                     </div>
