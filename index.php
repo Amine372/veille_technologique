@@ -210,13 +210,13 @@
                 <div class="col-xl-5 col-lg-4 col-md-6 col-sm-6">
                     <div class="gallery-box">
                         <div class="single-gallery">
-                          <a href="https://example.com">
+                          <a href="www.facebook.fr">
                             <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
                             <div class="cap-icon">
                                 <a href="assets/img/gallery/gallery1.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4>The Last man</h4>
+                                <h4><a href="www.facebook.fr">The Last man</a></h4>
                                 <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
                             </div>
                         </div>
