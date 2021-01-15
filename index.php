@@ -357,7 +357,7 @@
                     <!-- Section Tittle -->
                     <div class="section-tittle mb-30">
                         <h2>Compétances en <br> programmation</h2>
-                        <p>Voici ma maitrises des différents lanhgeges de programmation</p>
+                        <p>Voici ma maitrises des différents langages de programmation</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
