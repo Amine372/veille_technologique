@@ -399,7 +399,7 @@
                     <div class="single-brand text-center mb-30">
                         <img src="assets/img/logo/scripting.jpg" alt="">
                         <p>Batch, VBS</p>
-                        <p>Bon niveau/p>
+                        <p>Bon niveau</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
