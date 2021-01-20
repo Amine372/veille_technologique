@@ -48,7 +48,8 @@ $large3:'only screen and (min-width: 1601px) and (max-width: 1800px)';
 $heading_color2: #112e41;
 $white_color:#fff;
 
-.boxed-btn {
+.boxed-btn
+{
   background: #fff;
   color: $theme-color !important;
 
@@ -65,15 +66,18 @@ $white_color:#fff;
   color: $theme-color;
   text-transform: uppercase;
   cursor: pointer;
-  &:hover{
+  &:hover
+  {
     background: $theme-color;
     color: #fff !important;
     border: 1px solid $theme-color;
   }
-  &:focus{
+  &:focus
+  {
     outline: none;
   }
-  &.large-width{
+  &.large-width
+  {
     width: 220px;
   }
 }
