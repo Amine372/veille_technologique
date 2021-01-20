@@ -1,4 +1,4 @@
-<!doctype html>
+/*<!doctype html>
 <html class="no-js" lang="zxx">
     <head>
         <meta charset="utf-8">
@@ -361,3 +361,4 @@
 
     </body>
 </html>
+*/
