@@ -57,9 +57,9 @@
                                             <li><a href="apropos.php">A propos</a></li>
                                             <li><a href="gallery.html">Galerie</a></li>
                                             <li><a href="services.html">Services</a></li>
-                                            <li><a href="blog.html">Blog</a>
+                                            <li><a href="projets.php">Blog</a>
                                                 <ul class="submenu">
-                                                    <li><a href="blog.html">Blog</a></li>
+                                                    <li><a href="projets.php">Blog</a></li>
                                                     <li><a href="elements.html">Element</a></li>
                                                 </ul>
                                             </li>
@@ -273,7 +273,7 @@
                                 <h4>Navigation</h4>
                                 <ul>
                                   <li><a href="index.php">Accueil</a></li>
-                                  <li><a href="blog.html">Blog</a></li>
+                                  <li><a href="projets.php">Blog</a></li>
                                   <li><a href="apropos.php">A propos</a></li>
                                 </ul>
                             </div>
