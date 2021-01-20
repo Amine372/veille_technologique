@@ -201,9 +201,7 @@
                     <div class="row d-flex justify-content-between align-items-center">
                         <div class="col-xl-9 col-lg-8">
                             <div class="footer-copy-right">
-                                <p>
-      Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tous droits Réservés | Ce site a été réalisé par Amine NAKHIL
-    </p>
+                                <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tous droits Réservés | Ce site a été réalisé par Amine NAKHIL</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4">

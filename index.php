@@ -229,8 +229,8 @@
                                 <a href="assets/img/gallery/gallery2.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4>The Last man</h4>
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+                                <h4>Ma veille technologique</h4>
+                                <p>Voyez ma veille technologique.</p>
                             </div>
                         </div>
                     </div>
