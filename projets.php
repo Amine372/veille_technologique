@@ -210,26 +210,7 @@
                     <div class="blog_right_sidebar">
                         <aside class="single_sidebar_widget tag_cloud_widget">
                             <h4 class="widget_title" style="color: #2d2d2d;">Tags Amine Nakhil</h4>
-                            <ul class="list">
-                                <li>
-                                    <a href="#">projets</a>
-                                </li>
-                                <li>
-                                    <a href="#">littérature</a>
-                                </li>
-                                <li>
-                                    <a href="#">politique</a>
-                                </li>
-                                <li>
-                                    <a href="#">philosophie</a>
-                                </li>
-                                <li>
-                                    <a href="#">programmation</a>
-                                </li>
-                                <li>
-                                    <a href="#">algo</a>
-                                </li>
-                            </ul>
+                            
                         </aside>
                     </div>
                 </div>
