@@ -99,8 +99,8 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="assets/img/blog/single_blog_1.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3></h3>
-                                    <p>oct 2020</p>
+                                  <h3>2020</h3>
+                                  <p>oct</p>
                                 </a>
                             </div>
                             <div class="blog_details">
@@ -117,8 +117,8 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="assets/img/blog/single_blog_2.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>dec</h3>
-                                    <p>2019</p>
+                                    <h3>2019</h3>
+                                    <p>dec</p>
                                 </a>
                             </div>
                             <div class="blog_details">
