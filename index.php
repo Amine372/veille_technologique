@@ -229,8 +229,8 @@
                                 <a href="assets/img/gallery/gallery2.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4><a href="assets/televerssements/Amine_CV.pdf">Compétences</a></h4>
-                                <p><a href="assets/televerssements/Amine_CV.pdf">Les compétences proffessionelles dont je dispose.</a></p>
+                                <h4><a href="elements.html">Compétences</a></h4>
+                                <p><a href="elements.html">Les compétences proffessionelles dont je dispose.</a></p>
                             </div>
                         </div>
                     </div>
