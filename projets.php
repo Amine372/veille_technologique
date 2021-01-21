@@ -100,7 +100,7 @@
                                 <img class="card-img rounded-0" src="assets/img/blog/single_blog_1.png" alt="">
                                 <a href="#" class="blog_item_date">
                                     <h3></h3>
-                                    <p>oct</p>
+                                    <p>oct 2020</p>
                                 </a>
                             </div>
                             <div class="blog_details">
