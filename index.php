@@ -53,13 +53,13 @@
                                 <!-- Main-menu -->
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav>
-                                        <ul id="navigation">
-                                            <li><a href="index.php">Accueil</a></li>
-                                            <li><a href="apropos.php">A propos</a></li>
-                                            <li><a href="elements.html">Compétences</a></li>
-                                            <li><a href="projets.php">Projets</a></li>
-                                            <li><a href="contact.php">Contact</a></li>
-                                        </ul>
+                                      <ul id="navigation">
+                                          <li><a href="index.php">Accueil</a></li>
+                                          <li><a href="apropos.php">A propos</a></li>
+                                          <li><a href="elements.html">Compétences</a></li>
+                                          <li><a href="projets.php">Projets</a></li>
+                                          <li><a href="contact.php">Contact</a></li>
+                                      </ul>
                                     </nav>
                                 </div>
                             </div>
