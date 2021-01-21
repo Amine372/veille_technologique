@@ -129,10 +129,7 @@
             <div class="row justify-content-between">
                 <div class="col-xl-5 col-lg-6">
                     <div class="about-caption2 mb-50">
-                        <h3>HOW WE MAKE USER EXPERIENCES</h3>
-                        <div class="send-cv">
-                            <a href="#">hire@colorlib.com</a>
-                        </div>
+                        <img src="assets/img/hero/1580812492063.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-5">
