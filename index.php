@@ -139,11 +139,6 @@
                     <div class="about-caption mb-50">
                         <h3>Bonjour, je suis <FONT COLOR="#f04e3c">Amine NAKHIL</font>, étudiant en informatique passionné par les nouvelles technologies, je suis actuellement en seconde année de BTS SIO option SLAM. Ce site est réalisé dans le cadre de l'épreuve E4 de l'examen. </h3>
                         <p class="pera1"><span>Amine NAKHIL</span> </p>
-                        <div class="experience">
-                            <div class="year">
-                                <span>05</span>
-                            </div>
-                            <div class="year-details"><p>YEARS OF<br> DIGITAL EXPERIENCE</p></div>
                         </div>
                     </div>
                 </div>
@@ -383,6 +378,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
+                        <img src="assets/img/logo/algo.jpg" alt="">
+                        <p>Algorithmique</p>
+                        <p>Exellent niveau</p>
+                    </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
                         <img src="assets/img/logo/sql.png" alt="">
                         <p>SQL</p>
                         <p>Bon niveau</p>
@@ -402,12 +403,6 @@
                         <p>Bon niveau</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <div class="single-brand text-center mb-30">
-                        <img src="assets/img/logo/algo.jpg" alt="">
-                        <p>Algorithmique</p>
-                        <p>Exellent niveau</p>
-                    </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
