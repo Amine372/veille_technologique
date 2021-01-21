@@ -206,14 +206,6 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="blog_right_sidebar">
-                        <aside class="single_sidebar_widget tag_cloud_widget">
-                            <h4 class="widget_title" style="color: #2d2d2d;">Tags Amine Nakhil</h4>
-                            
-                        </aside>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
