@@ -137,7 +137,7 @@
                 </div>
                 <div class="col-xl-5 col-lg-5">
                     <div class="about-caption mb-50">
-                        <h3>Bonjour, je suis Amine NAKHIL, étudiant en informatique passionné par les nouvelles technologies, je suis actuellement en seconde année de BTS SIO option SLAM. Ce site est réalisé dans le cadre de l'épreuve E4 de l'examen. </h3>
+                        <h3>Bonjour, je suis <div style="color:#f04e3c";>Amine NAKHIL</div>, étudiant en informatique passionné par les nouvelles technologies, je suis actuellement en seconde année de BTS SIO option SLAM. Ce site est réalisé dans le cadre de l'épreuve E4 de l'examen. </h3>
                         <p class="pera1"><span>Amine NAKHIL</span> </p>
                         <div class="experience">
                             <div class="year">
