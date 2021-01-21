@@ -350,7 +350,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/logo/61PMEmLLc7L.jpg" alt="">
+                        <img src="assets/img/logo/61PMEmLLc7L.png" alt="">
                         <p>HTML, CSS</p>
                         <p>Exellent niveau</p>
                     </div>
