@@ -378,12 +378,6 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/logo/algo.jpg" alt="">
-                        <p>Algorithmique</p>
-                        <p>Exellent niveau</p>
-                    </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <div class="single-brand text-center mb-30">
                         <img src="assets/img/logo/sql.png" alt="">
                         <p>SQL</p>
                         <p>Bon niveau</p>
@@ -403,6 +397,12 @@
                         <p>Bon niveau</p>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="single-brand text-center mb-30">
+                        <img src="assets/img/logo/algo.jpg" alt="">
+                        <p>Algorithmique</p>
+                        <p>Exellent niveau</p>
+                    </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
