@@ -198,7 +198,7 @@
                                 </a>
                                 <p>Lors de mon stage au sein de la comunauté d'aglomération du val d'europe, j'ai été chargé de configurer une borne automatique d'accès au service publics de la communauté d'agglomération. Cela afin de robotiser partiellement la relation entre la communauté d'aglomération et les usagers du service public.</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Python, Cryptographie</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> Scripting, Batch, Vbs</a></li>
                                 </ul>
                             </div>
                         </article>
