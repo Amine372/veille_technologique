@@ -195,9 +195,9 @@
                             </div>
                             <div class="blog_details">
                                 <a class="d-inline-block" href="blog_details.html">
-                                    <h2 class="blog-head" style="color: #2d2d2d;">Chiffrement</h2>
+                                    <h2 class="blog-head" style="color: #2d2d2d;">Borne Publique</h2>
                                 </a>
-                                <p>Avec les multiples scandales apparus avec le développement de logiciels de chiffrements influencés par la NSA pour établir un sysytème de surveillance de masse. La rencontre entre la NSA et linus tovalds et aussi le silence radio du logiciel TrueCrypt, ou encore la supercherie atlantiste qu'est l'application Telegram. J'ai décidé de coder moi meme un programme de chiffrement.</p>
+                                <p></p>
                                 <ul class="blog-info-link">
                                     <li><a href="#"><i class="fa fa-user"></i> Python, Cryptographie</a></li>
                                 </ul>
