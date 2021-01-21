@@ -88,7 +88,6 @@
             </div>
         </div>
     </div>
-    <!-- Hero End -->
     <!--================Blog Area =================-->
     <section class="blog_area section-padding">
         <div class="container">
