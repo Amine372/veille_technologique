@@ -128,10 +128,10 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-xl-5 col-lg-8">
-                    <!--?<div class="about-caption2 mb-50">-->
-                        <img src="assets/img/hero/1580812492063.jpg" alt="">
+                    <div class="about-caption2 mb-50">
+                        <center><img style="border:solid 1px #f04e3c;" src="assets/img/hero/1580812492063.jpg" alt=""></center>
                     </div>
-                <!--?</div>-->
+                </div>
                 <div class="col-xl-5 col-lg-5">
                     <div class="about-caption mb-50">
                         <h3>Bonjour, je suis <FONT COLOR="#f04e3c">Amine NAKHIL</font>, étudiant en informatique passionné par les nouvelles technologies, je suis actuellement en seconde année de BTS SIO option SLAM. Ce site est réalisé dans le cadre de l'épreuve E4 de l'examen. </h3>
