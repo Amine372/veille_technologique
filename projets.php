@@ -135,8 +135,8 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="assets/img/blog/single_blog_3.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>mars</h3>
-                                    <p>2020</p>
+                                    <h3>2020</h3>
+                                    <p>mars</p>
                                 </a>
                             </div>
                             <div class="blog_details">
