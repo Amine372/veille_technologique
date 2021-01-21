@@ -137,8 +137,7 @@
                 </div>
                 <div class="col-xl-5 col-lg-5">
                     <div class="about-caption mb-50">
-                        <h3>You can’t use up creativity. The more you use, the
-                            more you have in your signifant mind.</h3>
+                        <h3>Bonjour, je suis Amine NAKHIL, étudiant en informatique passionné par les nouvelles technologies, je suis actuellement en seconde année de BTS SIO option SLAM. Ce site est réalisé dans le cadre de l'épreuve E4 de l'examen. </h3>
                         <p class="pera1"><span>SALVADOR DALI</span> Digital Artisit</p>
                         <div class="experience">
                             <div class="year">
