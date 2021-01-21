@@ -410,7 +410,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/logo/RUzAXfQT1aWcCDp8zDVEN_t.jpg" alt="">
+                        <img src="assets/img/logo/index-removebg-preview.png" alt="">
                         <p>Arduino</p>
                         <p>Bon niveau</p>
                     </div>
