@@ -56,14 +56,8 @@
                                         <ul id="navigation">
                                             <li><a href="index.php">Accueil</a></li>
                                             <li><a href="apropos.php">A propos</a></li>
-                                            <li><a href="gallery.html">Galerie</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="projets.php">Projets</a>
-                                                <ul class="submenu">
-                                                    <li><a href="projets.php">Blog</a></li>
-                                                    <li><a href="elements.html">Element</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="elements.html">Compétences</a></li>
+                                            <li><a href="projets.php">Projets</a></li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
