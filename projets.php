@@ -186,7 +186,7 @@
                         </article>
                         <article class="blog_item">
                             <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
+                                <img class="card-img rounded-0" src="assets/img/blog/UNILOM-Borne-Tactile-Sheridan-32-42.png" alt="">
                                 <a href="#" class="blog_item_date">
                                     <h3>oct</h3>
                                     <p>2020</p>
