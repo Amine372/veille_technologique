@@ -147,45 +147,7 @@
     </section>
     <!-- Services Area End -->
     <!--? Blog Ara Start -->
-    <section class="home-blog-area section-padding30">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/blog01.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="services.html">Creative Photography</a></h3>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/blog02.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="services.html">Wedding Photography</a></h3>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/blog03.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="services.html">Nature Photography</a></h3>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
     <!-- Services Ara End -->
     <!--? Gallery Area Start -->
     <section class="gallery-area">
