@@ -139,7 +139,7 @@
                                 </a>
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
+                                <a class="d-inline-block" href="projet_cinema.html">
                                     <h2 class="blog-head" style="color: #2d2d2d;">Projet cinéma</h2>
                                 </a>
                                 <p>Ce projet s'est effectué dans le cadre scolaire, nous devions en formant un binôme de programmeurs, coder le site web complet d'un cinéma. Il doit comporter les fonctionalités néscéssaires à un cinéma voire davantage. le tout à été programmé en orienté objet.</p>
@@ -157,7 +157,7 @@
                                 </a>
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
+                                <a class="d-inline-block" href="flappy-plane.html">
                                     <h2 class="blog-head" style="color: #2d2d2d;">Flappy Plane</h2>
                                 </a>
                                 <p>Pendant mon année de terminale, nous avions un projet de fin d'année en ISN. Ce proejet était un jeu qui était calqué sur le fameux Flappy Bird.</p>
@@ -175,7 +175,7 @@
                                 </a>
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
+                                <a class="d-inline-block" href="site_lycee.html">
                                     <h2 class="blog-head" style="color: #2d2d2d;">Site lycée</h2>
                                 </a>
                                 <p>C'est un projet de fin d'année de l'épreuve E4 de l'épreuve de BTS. Il s'agit de programmer un site internet d'anciens élèves de l'UFA Robert Schuman, il doit aussi permetre de partager des offres d'alternance.</p>
@@ -193,7 +193,7 @@
                                 </a>
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
+                                <a class="d-inline-block" href="borne_publique.html">
                                     <h2 class="blog-head" style="color: #2d2d2d;">Borne Publique</h2>
                                 </a>
                                 <p>Lors de mon stage au sein de la comunauté d'aglomération du val d'europe, j'ai été chargé de configurer une borne automatique d'accès au service publics de la communauté d'agglomération. Cela afin de robotiser partiellement la relation entre la communauté d'aglomération et les usagers du service public.</p>
@@ -208,7 +208,7 @@
             </div>
         </div>
     </section>
-    <!--================Blog Area =================-->
+
 </main>
 <footer>
     <!--? Footer Start-->
