@@ -361,7 +361,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/logo/png-clipart-learning-python-programming-language-computer-programming-python-logo-text-computer-removebg-preview.png" alt="">
+                        <img src="assets/img/logo/png-clipart-learning-python-programming-language-computer-programming-python-logo-text-computer.png" alt="">
                         <p>Python</p>
                         <p>Exellent niveau</p>
                     </div>
