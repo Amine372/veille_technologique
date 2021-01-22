@@ -56,7 +56,7 @@
                                       <ul id="navigation">
                                           <li><a href="index.php">Accueil</a></li>
                                           <li><a href="elements.html">Compétences</a></li>
-                                          <li><a href="projets.php">Projets</a></li>
+                                          <li><a href="projets.html">Projets</a></li>
                                           <li><a href="contact.php">Contact</a></li>
                                       </ul>
                                     </nav>
@@ -484,7 +484,7 @@
                                 <h4>Navigation</h4>
                                 <ul>
                                   <li><a href="index.php">Accueil</a></li>
-                                  <li><a href="projets.php">Projets</a></li>
+                                  <li><a href="projets.html">Projets</a></li>
                                 </ul>
                             </div>
                         </div>
