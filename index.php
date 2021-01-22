@@ -203,8 +203,8 @@
                                 <a href="assets/img/gallery/gallery4.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4>The Last man</h4>
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+                                <h4><a href="assets/televerssements/Amine_CV.pdf">Voir mon CV</a>Mon tableau de compétences</h4>
+                                <p><a href="assets/televerssements/Amine_CV.pdf">Voir mon CV</a>Les compétences que j'ais validé quand j'ais appliqué mon savoir faire.</p>
                             </div>
                         </div>
                     </div>
