@@ -203,8 +203,8 @@
                                 <a href="assets/img/gallery/gallery4.png" class="ti-fullscreen img-pop-up"></a>
                             </div>
                             <div class="g-caption">
-                                <h4><a href="assets/televerssements/Amine_CV.pdf">Mon tableau de compétences</a></h4>
-                                <p><a href="assets/televerssements/Amine_CV.pdf">Les compétences que j'ais validé quand j'ais appliqué mon savoir faire.</a></p>
+                                <h4><a href="assets/televerssements/BTS_SIO_2021_E6_tableau_synthese_NAKHIL.xls">Mon tableau de synthèse</a></h4>
+                                <p><a href="assets/televerssements/BTS_SIO_2021_E6_tableau_synthese_NAKHIL.xls">Les compétences que j'ais validé quand j'ais appliqué mon savoir faire.</a></p>
                             </div>
                         </div>
                     </div>
