@@ -121,7 +121,7 @@
                                 </a>
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="blog_details.html">
+                                <a class="d-inline-block" href="projet_snack.html">
                                     <h2 class="blog-head" style="color: #2d2d2d;">Projet Snack</h2>
                                 </a>
                                 <p>Quand l'UFA avait besoin de développeurs web pour coder un nouveau site de commandes à distance pour la cafétéria, il n'a pas tardé à nous mandater pour le programmer. Ce site est parfaitement fonctionnel et permet à chacuns de commander ce qu'il désire et donc d'éviter le gaspillage.</p>
