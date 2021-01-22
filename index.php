@@ -209,8 +209,36 @@
                         </div>
                     </div>
                 </div>
-
-  
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                    <div class="gallery-box">
+                        <div class="single-gallery">
+                            <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery5.png);"></div>
+                            <div class="cap-icon">
+                                <a href="assets/img/gallery/gallery5.png" class="ti-fullscreen img-pop-up"></a>
+                            </div>
+                            <div class="g-caption">
+                                <h4></h4>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                    <div class="gallery-box">
+                        <div class="single-gallery">
+                            <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery6.png);"></div>
+                            <div class="cap-icon">
+                                <a href="assets/img/gallery/gallery6.png" class="ti-fullscreen img-pop-up"></a>
+                            </div>
+                            <div class="g-caption">
+                                <h4></h4>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <!-- Gallery Area End -->
     <!--? Brand Area Start -->
