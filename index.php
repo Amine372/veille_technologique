@@ -382,7 +382,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="single-brand text-center mb-30">
-                        <img src="assets/img/logo/gyfvmlbhuttfu.png" alt="">
+                        <img src="assets/img/logo/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg" alt="">
                         <p>Batch, VBS</p>
                         <p>Bon niveau</p>
                     </div>
