@@ -31,7 +31,6 @@ $body .= "<tr><td></td></tr>";
 $body .= "<tr><td colspan='2' style='border:none;'>{$cmessage}</td></tr>";
 $body .= "</tbody></table>";
 $body .= "</body></html>";
-
 $send = mail($to, $subject, $body, $headers);
 
 ?>
